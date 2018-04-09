@@ -1,2 +1,2 @@
 var recipes = {};
-function Objects.assign({}, recipes);
+Objects.assign({}, recipes);
